@@ -73,6 +73,8 @@ Load detailed guidance based on context:
 | Security | `references/security-testing.md` | Security test checklist |
 | Reports | `references/test-reports.md` | Report templates, CI/CD integration, findings |
 | QA Methodology | `references/qa-methodology.md` | Manual testing, quality advocacy, shift-left, continuous testing |
+| Requirements Testing | `references/requirements-testing.md` | Requirement quality review, testability, traceability matrix |
+| Code Walkthrough | `references/code-review-testing.md` | Structured code review checklist for Vue/Java and AI-risk controls |
 | Automation | `references/automation-frameworks.md` | Framework patterns, scaling, maintenance, team enablement |
 <!-- Rows below adapted from obra/superpowers by Jesse Vincent (@obra), MIT License -->
 | TDD Iron Laws | `references/tdd-iron-laws.md` | TDD methodology, test-first development, red-green-refactor |
